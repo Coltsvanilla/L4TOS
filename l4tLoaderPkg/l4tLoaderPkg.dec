@@ -1,0 +1,5 @@
+[Defines]
+  DEC_SPECIFICATION              = 0x00010005
+  PACKAGE_NAME                   = l4tLoaderPkg
+  PACKAGE_GUID                   = e6520eda-9331-4d20-8673-990b3568fba4
+  PACKAGE_VERSION                = 0.1
